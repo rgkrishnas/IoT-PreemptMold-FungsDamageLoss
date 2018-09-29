@@ -1,6 +1,6 @@
 # IoT-Pre-emptive-Prediction - Insurance-Loss
 ## Objective
-Aim is to provide a solution for insurance loss before the damage happen, using IoT technology pre-empty the situation and avoid insurance claim as well as taken care of building strengthen.
+Aim is to provide a solution to avoid home damges due to climate changes, using IoT technology pre-empty the situation and keep healthy life/building strengthen as well avoid insurance claims.
 ## Goal:
 * Mold is a common type of fungus that thrives in moist, warm conditions. 
 * The spores they release causes illness to humans.
@@ -37,7 +37,7 @@ Aim is to provide a solution for insurance loss before the damage happen, using 
 3. Serial data to A0
 
 ### Installation steps:
-clone git repo at https://github.dxc.com/DXCLabsIndia/IoT-Pre-emptive-Prediction--Insurance-Loss/archive/master.zip
+clone git repo at https://github.com/rgkrishnas/IoT-PreemptMold-FungsDamageLoss/archive/master.zip
 
 ### Hardware Chip config & migration
 1. Copy the below files into Raspberry pi 
