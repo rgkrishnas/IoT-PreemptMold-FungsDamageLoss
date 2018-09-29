@@ -80,6 +80,6 @@ clone git repo at https://github.com/rgkrishnas/IoT-PreemptMold-FungsDamageLoss/
    ![Dashboard Screenshot](Images/Dashboard2.PNG)
    ![Dashboard Screenshot](Images/Dashboard3.PNG)
 ### Demo Video 
-[![Video](Images/Mold&Fungus_VideoPreview.png)](https://dxcportal.sharepoint.com/sites/icto/Lists/Videos/Attachments/11/Mold&Fungus_Demo.mp4)
+[![Video](Images/Mold&Fungus_VideoPreview.png)](https://youtu.be/fQyC0gki71Y)
 ### Any Technical Queries:
    Gopal (grajaram@dxc.com) 
