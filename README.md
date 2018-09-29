@@ -1,4 +1,5 @@
-# IoT-Pre-emptive-Prediction - Insurance-Loss
+# IoT - Pre-emptive Mold & Fungus Damage Loss
+
 ## Objective
 Aim is to provide a solution to avoid home damges due to climate changes, using IoT technology pre-empty the situation and keep healthy life/building strengthen as well avoid insurance claims.
 ## Goal:
