@@ -81,4 +81,4 @@ clone git repo at https://github.dxc.com/DXCLabsIndia/IoT-Pre-emptive-Prediction
 ### Demo Video 
 [![Video](Images/Mold&Fungus_VideoPreview.png)](https://dxcportal.sharepoint.com/sites/icto/Lists/Videos/Attachments/11/Mold&Fungus_Demo.mp4)
 ### Any Technical Queries:
-   Gopal (grajaram@dxc.com) or Vijay (vbhavani@csc.com)
+   Gopal (grajaram@dxc.com) 
