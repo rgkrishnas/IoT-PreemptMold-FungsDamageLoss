@@ -18,7 +18,7 @@ Aim is to provide a solution for insurance loss before the damage happen, using 
 ![Architecture](Images/Architecture.PNG)
 
 ## Docs:
-![Presentation](Docs/IoT_Pre-emptivePrediction_InsuranceLoss.pdf)
+![Presentation](Docs/PreemptMold&FungusDetection.pdf)
 ## Developer Segment
 ### Minimum Required Hardware's:
 1. Raspberry Pi 3
